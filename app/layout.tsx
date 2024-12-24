@@ -29,7 +29,7 @@ const RootLayout = ({
         <div className="fixed inset-0 h-lvh -z-10 opacity-25">
           <Image
             className="ellipse ellipse-left"
-            src="/ellipse-left.png"
+            src="/ellipse-left.webp"
             alt="EL"
             width={1475}
             height={1114}
@@ -37,7 +37,7 @@ const RootLayout = ({
           />
           <Image
             className="ellipse ellipse-right"
-            src="/ellipse-right.png"
+            src="/ellipse-right.webp"
             alt="ER"
             width={1475}
             height={1114}
